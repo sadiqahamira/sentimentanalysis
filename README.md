@@ -1,7 +1,7 @@
 # sentimentanalysis
 multiclass sentiment analysis with supervised machine learning
 
-problem statement 
+
 1. Comparing algorithm support vector machine, random forest, naive bayes and logistic regression  
 2. identify which algorithm classify the coviid classes- classes categories target: type 
 3. total catgories of the data based on Type: Global, News, Malaysia, Cluster, Vaccine, Deaths, Cases, Entertainment, Politic
