@@ -13,5 +13,4 @@ The steps taken in making the project:
 2. Explore data
 3. Prepare data
 4. Build model
-5. Parameter optimization
-6. T-test(paired sample)
+5. T-test(paired sample)
